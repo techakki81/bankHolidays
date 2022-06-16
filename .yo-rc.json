@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "bank-holidays",
+    "libraryId": "d887dbbc-d4b2-4f67-9e07-86caffce0c44",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "bankHolidays",
+    "solutionShortDescription": "bankHolidays description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "adaptiveCardExtension",
+    "aceTemplateType": "PrimaryText"
+  }
+}
