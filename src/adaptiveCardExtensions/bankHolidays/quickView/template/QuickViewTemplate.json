@@ -10,7 +10,7 @@
     },
     {
       "type": "FactSet",    
-      "when":"${lstHol.length>0}",
+     "$when": "${count(lstHol)>0}",
       "facts": [        
          {
               "$data":"${lstHol}",                              
